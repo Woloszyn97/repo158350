@@ -1,2 +1,2 @@
 # repo158350
-Zmiany - Jan Wołoszyn
+Dokonuje zmiany Jan Wołoszyn
